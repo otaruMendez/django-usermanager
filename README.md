@@ -4,6 +4,8 @@
 
 - Install python3
 
+- cd into the usermanager directory
+
 - Run `python3 manage.py migrate`
 
 - Run `python3 manage.py migrate --run-syncdb`
